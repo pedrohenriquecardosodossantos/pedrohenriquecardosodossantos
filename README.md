@@ -1,7 +1,19 @@
 <h1><strong>Olá, sou o Pedro!</strong></h1>
 
 <h4>- 📚 Atualmente fazendo faculdade de ciência da computação (4° semestre)</h2>
-<h4>- 🤖 Buscando mais conhecimento em HTML, CSS e JavaScript</h2> 
+<h4>- 🤓 Na faculdade já passei pelas seguintes seguintes linguagens:</h4>
+
+  ##
+<div>
+  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
+</div>
+
+  ##
+
+<h4>- 🤖 Buscando mais conhecimento em cursos online para HTML, CSS e JavaScript</h2> 
 
   ##
   
